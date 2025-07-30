@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+   background-image: url(./The-Role-of-Music-in-Enhancing-Mood.webp);
+
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #d60c5a;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  
+  .A {
+    background-image: url(./download.png);
+  }
+  
+  .B{
+    background-image: url(./download.png);
+  
+  }
+  
+  .C{
+    background-image: url(./download.png);
+  
+  }
+  
+
+  .set {
+    margin: 10% auto;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: blueviolet;
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid #996d0e;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #c42712;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
